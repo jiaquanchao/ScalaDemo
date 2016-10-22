@@ -31,4 +31,6 @@ object StaticDemo {
     println(cs.say(9))
   }
 
+  
+
 }

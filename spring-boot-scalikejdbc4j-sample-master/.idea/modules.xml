@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ScalaTools/ScalaTools.iml" filepath="$PROJECT_DIR$/../ScalaTools/ScalaTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-scalikejdbc4j-sample.iml" filepath="$PROJECT_DIR$/spring-boot-scalikejdbc4j-sample.iml" />
+    </modules>
+  </component>
+</project>
